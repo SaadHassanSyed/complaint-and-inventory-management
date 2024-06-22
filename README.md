@@ -1,4 +1,4 @@
-inventory and complaint managment system previous url:https://immportal.tech/ developed using react with .net backend
+inventory and complaint managment system previous url:https://immportal.tech/ 100% frontend by me.developed using react with .net backend
 
 ![image](https://github.com/SaadHassanSyed/property-management/assets/10111894/2c4362bb-ede1-45f5-82f4-947548ba795f)
 ![image](https://github.com/SaadHassanSyed/property-management/assets/10111894/f416328b-8b0d-49e1-a05f-df8eac960031)
